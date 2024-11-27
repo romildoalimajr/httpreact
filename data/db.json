@@ -34,6 +34,21 @@
       "id": "877b",
       "name": "Capa de chuva",
       "price": "10.99"
+    },
+    {
+      "id": "cbdd",
+      "name": "Teclado",
+      "price": "115.75"
+    },
+    {
+      "id": "d5d1",
+      "name": "Monitor",
+      "price": "758,89"
+    },
+    {
+      "id": "d368",
+      "name": "Cadeira Gamer",
+      "price": "535.74"
     }
   ]
 }
