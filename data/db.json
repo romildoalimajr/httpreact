@@ -54,6 +54,41 @@
       "id": "fc2f",
       "name": "Mouse Optico",
       "price": "19.85"
+    },
+    {
+      "id": "82be",
+      "name": "Cigarro",
+      "price": "8.50"
+    },
+    {
+      "id": "6dfb",
+      "name": "Amaciante",
+      "price": "6"
+    },
+    {
+      "id": "860b",
+      "name": "Desodorante",
+      "price": "6.38"
+    },
+    {
+      "id": "4529",
+      "name": "Computador",
+      "price": "4587,16"
+    },
+    {
+      "id": "d2fb",
+      "name": "Caixa de som átomo",
+      "price": "95.74"
+    },
+    {
+      "id": "8326",
+      "name": "Caixa de som átomo",
+      "price": "95.74"
+    },
+    {
+      "id": "ec27",
+      "name": "Cabo HDMI",
+      "price": "10.00"
     }
   ]
 }
