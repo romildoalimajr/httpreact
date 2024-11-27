@@ -7,6 +7,26 @@
   pointer-events: none;
 }
 
+.add-product {
+  border-top: 1px solid #000;
+}
+ul{
+  list-style-type: none;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center;
+}
+form input{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
