@@ -1,0 +1,30 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Camisa",
+            "price": 59.90
+        },
+        {
+            "id": 2,
+            "name": "Calça Vermelha",
+            "price": 95.75
+        },
+        {
+            "id": 3,
+            "name": "Boné aba reta",
+            "price": 29.97
+        },
+        {
+            "id": 4,
+            "name": "Cueca Box",
+            "price": 19.90
+        },
+        {
+            "id": 5,
+            "name": "Camisa Social Branca",
+            "price": 87.59
+        }
+
+    ]
+}
